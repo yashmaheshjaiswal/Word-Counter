@@ -1,4 +1,4 @@
 # Word-Counter
 JavaScript
 Word-Counter Project - 
-Visit this link - https://jade-phoenix-527aa5.netlify.app/
+Visit this link - https://relaxed-hummingbird-9e44af.netlify.app/
